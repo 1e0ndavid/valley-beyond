@@ -13,11 +13,17 @@
 
 - [勃拉蕊丝](https://www.zhihu.com/people/bei-ji-xiong-43-25)
 - [勃加蕊](https://www.zhihu.com/people/xiao-xiao-ye-bo)
-- [小勃勃]()
+- [小勃勃](https://www.zhihu.com/people/bboczeng2)
 
 #### 1.3 已经被删除的知乎小号
 - [勃失败](https://www.zhihu.com/people/tanchaobo2) 专栏文章：[几个解释](https://zhuanlan.zhihu.com/p/25033393?utm_source=qq&amp;utm_medium=social)
 - [曾博](https://www.zhihu.com/people/bboczeng)
+- [中勃勃](https://www.zhihu.com/people/e-de-huang-34-31)
+- [勃学家](https://www.zhihu.com/people/bo-xue-jia-31)
+
+#### 1.4 不活跃的知乎小号
+
+- [夜勃](https://www.zhihu.com/people/ye-bo-zs)
 
 #### 1.4 知乎话题
 
