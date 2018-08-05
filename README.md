@@ -11,6 +11,7 @@
 
 - [勃拉蕊丝](https://www.zhihu.com/people/bei-ji-xiong-43-25)
 - [勃加蕊](https://www.zhihu.com/people/xiao-xiao-ye-bo)
+- [小勃勃]()
 
 #### 1.3 已经被删除的知乎小号
 - [勃失败](https://www.zhihu.com/people/tanchaobo2) 专栏文章：[几个解释](https://zhuanlan.zhihu.com/p/25033393?utm_source=qq&amp;utm_medium=social)
@@ -27,6 +28,7 @@
 - [江踏歌](https://www.zhihu.com/people/jianghanchen)
 - [徐国曦](https://www.zhihu.com/people/xu-guo-xi)
 - [勃学星球](https://www.zhihu.com/people/tianjinxiaohai)
+- [大璐](https://www.zhihu.com/people/wang-da-da-1997-0703)
 - [徐怡妙](https://www.zhihu.com/people/wxaugust)
 - [雪球兔](https://www.zhihu.com/people/gcxue-qiu-tu)
 
