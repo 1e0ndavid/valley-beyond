@@ -1,4 +1,4 @@
-# Valley Beyond
+# Valley Beyond： 失败学论著集
 
 ### 0. 基本口号
 - 去北极，吃米粉，开uber
