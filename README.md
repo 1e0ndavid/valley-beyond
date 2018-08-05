@@ -14,14 +14,12 @@
 - [勃拉蕊丝](https://www.zhihu.com/people/bei-ji-xiong-43-25)
 - [勃加蕊](https://www.zhihu.com/people/xiao-xiao-ye-bo)
 - [小勃勃](https://www.zhihu.com/people/bboczeng2)
-- [小夜勃](https://www.zhihu.com/people/xiao-ye-bo-78)
-- [勃力口minus](https://www.zhihu.com/people/bo-xing-qiu)
 
 #### 1.3 已经被删除的知乎小号
-
-- [勃失败](https://www.zhihu.com/people/tanchaobo2) 专栏文章：[几个解释](https://zhuanlan.zhihu.com/p/25033393)
+- [勃失败](https://www.zhihu.com/people/tanchaobo2) 专栏文章：[几个解释](https://zhuanlan.zhihu.com/p/25033393?utm_source=qq&amp;utm_medium=social)
 - [曾博](https://www.zhihu.com/people/bboczeng)
-- [大勃勃](https://www.zhihu.com/people/bboczengshibai)
+- [中勃勃](https://www.zhihu.com/people/e-de-huang-34-31)
+- [勃学家](https://www.zhihu.com/people/bo-xue-jia-31)
 
 #### 1.4 不活跃的知乎小号
 
@@ -41,7 +39,7 @@
 - [大璐](https://www.zhihu.com/people/wang-da-da-1997-0703)
 - [徐怡妙](https://www.zhihu.com/people/wxaugust)
 - [雪球兔](https://www.zhihu.com/people/gcxue-qiu-tu)
-- [MartinLoserKing](https://www.zhihu.com/people/martin_loser_king)
+
 
 ### 2. 基本思想摘要
 
@@ -76,3 +74,9 @@
 
 ––– [上海交大的学生如何看待西安交通大学这一学校？––曾博的回答](https://www.zhihu.com/question/37052352/answer/70188333)
 
+### 3.部分知乎回答
+
+- [小勃勃](https://github.com/1e0ndavid/bozeng-zhihu/tree/master/xiaobobo)
+- [勃失败](https://github.com/1e0ndavid/bozeng-zhihu/tree/master/boshibai1)
+- [曾博（上）](https://github.com/1e0ndavid/bozeng-zhihu/tree/master/zengbo1)
+- [曾博（下）](https://github.com/1e0ndavid/bozeng-zhihu/tree/master/zengbo2)
