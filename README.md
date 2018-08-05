@@ -13,7 +13,7 @@
 - [勃加蕊](https://www.zhihu.com/people/xiao-xiao-ye-bo)
 
 #### 1.3 已经被删除的知乎小号
-- [勃失败](https://www.zhihu.com/people/tanchaobo2), 专栏文章： [几个解释](https://zhuanlan.zhihu.com/p/25033393?utm_source=qq&amp;utm_medium=social)
+- [勃失败](https://www.zhihu.com/people/tanchaobo2),  专栏文章： [几个解释](https://zhuanlan.zhihu.com/p/25033393?utm_source=qq&amp;utm_medium=social)
 - [曾博](https://www.zhihu.com/people/bboczeng)
 
 #### 1.4 知乎话题
