@@ -28,4 +28,5 @@
 - [徐国曦](https://www.zhihu.com/people/xu-guo-xi)
 - [勃学星球](https://www.zhihu.com/people/tianjinxiaohai)
 - [徐怡妙](https://www.zhihu.com/people/wxaugust)
+- [雪球兔](https://www.zhihu.com/people/gcxue-qiu-tu)
 
